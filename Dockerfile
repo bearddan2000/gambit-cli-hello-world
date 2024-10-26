@@ -27,5 +27,4 @@ WORKDIR /code
 
 COPY bin .
 
-# 
-# CMD "./run.sh"
+CMD "./run.sh"
